@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mercury\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ad871d60ee8daaf84bba9787f87d3e840dac43e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\pre-dexed\debug\classes-6a85a2d563f809f184a47654188f2b57273f707c.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-17245169fad2d02afe6837c3f74f3ef347c5d740.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\pre-dexed\debug\classes-ffc14d75fd24add2d493f24b9f3f32ad72179b7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-7a11cb0c8d6e79a71a47790738da39f08f542a23.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.2.1\TaskOne2\app\build\intermediates\pre-dexed\debug\classes-c578ba2010c7371ca75e35928403358e14e7ffc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\mercury\Documents\Tsk 1.5\TaskOne2\app\build\intermediates\pre-dexed\debug\classes-a5f6fdcba30ec650dbdea7636ea2aea401f489ca.jar" />
+    </item>
+
+</items>
